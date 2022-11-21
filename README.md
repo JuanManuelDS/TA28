@@ -1,7 +1,7 @@
 # TA28
 Tarea 28, ejercicios HTML &amp; CSS
 
-### Ejercicio 1:
+### [Ejercicio 1](https://juanmanuelds.github.io/TA28/Ejercicio%206/)
 
 ### Ejercicio 2:
 

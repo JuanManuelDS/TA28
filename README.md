@@ -5,11 +5,11 @@ Tarea 28, ejercicios HTML &amp; CSS
 
 ### [Ejercicio 2](https://juanmanuelds.github.io/TA28/Ejercicio2)
 
-### [Ejercicio 3](https://juanmanuelds.github.io/TA28/Ejercicio3)
+### [Ejercicio 3](https://juanmanuelds.github.io/TA28/Ejercicio3/platosemana.html)
 
-### [Ejercicio 4](https://juanmanuelds.github.io/TA28/Ejercicio4)
+### [Ejercicio 4](https://juanmanuelds.github.io/TA28/Ejercicio4/platosemana.html)
 
-### [Ejercicio 5](https://juanmanuelds.github.io/TA28/Ejercicio5)
+### [Ejercicio 5](https://juanmanuelds.github.io/TA28/Ejercicio5/postresemana.html)
 
 ### [Ejercicio 6](https://juanmanuelds.github.io/TA28/Ejercicio%206/)
 

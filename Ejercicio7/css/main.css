@@ -1,0 +1,27 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #5F8F11;
+}
+
+h1 span {
+    color: #BF823B;
+}
+
+h3 {
+    color: #70AF0A;
+    margin-top: 0px;
+    border-bottom: 1px solid rgb(124, 124, 124);
+}
+
+h4 {
+    color: #BF823B;
+}
+
+div.contenido {
+    border: 1px solid rgb(145, 145, 145);
+    padding: 30px;
+    margin-top: 20px;
+}
